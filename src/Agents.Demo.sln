@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agents.Demo.Api", "Agents.D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agents.Demo.Data", "Agents.Demo.Data\Agents.Demo.Data.csproj", "{DB9A2FFF-4D8B-46CA-A1D5-11D1D50B7566}"
 EndProject
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Agents.Demo.Web", "Agents.Demo.Web\Agents.Demo.Web.njsproj", "{4242FEEB-F884-4400-9D2F-A98AAE21770D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{DB9A2FFF-4D8B-46CA-A1D5-11D1D50B7566}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB9A2FFF-4D8B-46CA-A1D5-11D1D50B7566}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB9A2FFF-4D8B-46CA-A1D5-11D1D50B7566}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4242FEEB-F884-4400-9D2F-A98AAE21770D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4242FEEB-F884-4400-9D2F-A98AAE21770D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4242FEEB-F884-4400-9D2F-A98AAE21770D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4242FEEB-F884-4400-9D2F-A98AAE21770D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
